@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Dakelbab
 - 👀 I’m interested in Frontend Developing & C# programming language
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Nodejs
 - 📫 You can reach me by searching @omar_frontend on Instagram
 
 <!---
