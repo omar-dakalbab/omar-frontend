@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Dakelbab
-- 👀 I’m interested in Frontend Developing & C# programming language
-- 🌱 I’m currently learning Nodejs, React, React Native
+- 👨‍💻 Web/App Developer & Design Team Manager
+- 🚀 Let's collaborate on your project!
 - 📫 You can reach me by searching @omar.dakelbab on Instagram
 
 <!---
